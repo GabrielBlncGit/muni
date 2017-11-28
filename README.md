@@ -12,4 +12,3 @@ Se crea y se despliega un proyecto web
 * [**Github**](https://www.djangoproject.com/)
  ... como plataforma de hosting
 * [**PythonAnywhere**](https://www.djangoproject.com/)
- ... como 
