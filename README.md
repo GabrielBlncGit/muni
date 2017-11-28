@@ -8,8 +8,8 @@ Se crea y se despliega un proyecto web
 * [**Django**](https://www.djangoproject.com/)
  ...usando como software de gestion de versiones 
 * [**Git**](https://www.djangoproject.com/)
- ... como 
+ ... como plataforma de trabajo colaborativo
 * [**Github**](https://www.djangoproject.com/)
- ... como
+ ... como plataforma de hosting
 * [**PythonAnywhere**](https://www.djangoproject.com/)
  ... como 
